@@ -22,25 +22,6 @@ Here’s a breakdown of each script (file) and what it does:
 
 ---
 
-## 📂 Folder / File Structure
-
-Matrix-Mania/
-│
-├── InputMatrix.py
-├── DiagnolCheck.py
-├── MatrixMultiplication.py
-├── Transpose.py
-├── RowColumnSwap.py
-├── Sparse Conversion of a Matrix.py
-├── MatrixExponentiation.py
-├── Number Spiral.py
-└── README.md ← (this file)
-
-yaml
-Copy code
-
----
-
 ## 🧠 Concepts Covered
 
 - Linear algebraic basics: transpose, multiplication, exponentiation  
